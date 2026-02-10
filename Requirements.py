@@ -1,4 +1,0 @@
-streamlit
-pandas
-altair
-snowflake-snowpark-python
