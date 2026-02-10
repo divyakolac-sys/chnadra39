@@ -1,5 +1,0 @@
-streamlit
-pandas
-plotly
-altair
-snowflake-connector-python
